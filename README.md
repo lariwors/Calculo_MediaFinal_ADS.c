@@ -4,11 +4,11 @@ O programa coleta notas de diferentes avaliações, calcula a média ponderada e
 
 Funcionalidades
 -> Escolha entre 5 matérias diferentes que tivemos este semestre, sendo elas:
-    1 - Introdução à Programação;
-    2 - Introdução à Segurança da Informação;
-    3 - Fundamentos de Redes de Computadores;
-    4 - Sistemas de Informação e Sociedade;
-    5 - Arquitetura de Computadores.  
+1 - Introdução à Programação;
+2 - Introdução à Segurança da Informação;
+3 - Fundamentos de Redes de Computadores;
+4 - Sistemas de Informação e Sociedade;
+5 - Arquitetura de Computadores.  
 
 
 -> Entrada de notas com validação de valores válidos.
